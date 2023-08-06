@@ -23,7 +23,7 @@ Teste realizado com o facebook: retornou parâmetros aleatórios, não foi capaz
 ![Screenshot_2023-08-06_14_08_02](https://github.com/sofianjos/cibersecurity-desafio-phishing/assets/104725041/5b2427ce-2987-451c-a7ec-e927df7d50b8)
 
 
-Teste realizado utilizando um site alternativo: funcionou perfeitamente.
+Teste realizado utilizando uma rede social alternativa: funcionou perfeitamente.
 
 ![Screenshot_2023-08-06_16_53_06](https://github.com/sofianjos/cibersecurity-desafio-phishing/assets/104725041/28222b7d-da98-4e19-ae24-f79b607e78d0)
 
