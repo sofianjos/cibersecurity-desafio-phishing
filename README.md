@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas 
 
 ### Ferramentas
 
@@ -18,7 +18,12 @@
 
 ### Resutados
 
+Teste realizado com o facebook: retornou parâmetros aleatórios, não foi capaz de capturar propriamente a senha ou usuário.
+
 ![Screenshot_2023-08-06_14_08_02](https://github.com/sofianjos/cibersecurity-desafio-phishing/assets/104725041/5b2427ce-2987-451c-a7ec-e927df7d50b8)
 
 
-![Alt text](./passwd.png "Optional title")
+Teste realizado utilizando um site alternativo: funcionou perfeitamente.
+
+![Screenshot_2023-08-06_16_53_06](https://github.com/sofianjos/cibersecurity-desafio-phishing/assets/104725041/28222b7d-da98-4e19-ae24-f79b607e78d0)
+
